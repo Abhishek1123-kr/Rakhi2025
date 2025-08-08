@@ -942,7 +942,7 @@
 
             .logo h4 {
                 width: 100%; /* Take up full width of the container */
-                margin-top: 100px;
+                margin-top: 50px;
                 font-size: 2rem;
                 text-align: center;
                 white-space: nowrap;
@@ -969,4 +969,5 @@
             }
 
         }
+
 
