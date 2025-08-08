@@ -954,9 +954,9 @@
 
             .hero h1 {
                 font-size: 2rem;
-                margin-top: 130px;
+                margin-top: 10px;
                 margin-bottom: auto;
-                padding: 0 10px; /* Add horizontal padding */
+/*                 padding: 0 10px; /* Add horizontal padding */ */
             }
 
             .rakhi-1, .rakhi-2 {
@@ -969,3 +969,4 @@
             }
 
         }
+
